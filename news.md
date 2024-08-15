@@ -1,7 +1,7 @@
 ---
-layout: blog
-title: Blog
-slug: /blog
+layout: news
+title: News
+slug: /news
 ---
 
 [2024-8] Start my journey at <a herf="https://emwlab.fudan.edu.cn/">EMWLab@FDU</a>!<br>
