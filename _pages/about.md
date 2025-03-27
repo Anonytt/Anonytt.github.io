@@ -19,8 +19,9 @@ redirect_from:
 
 I am a first-year M.S. student at [the Department of Communication Science and Engineering](https://cse.fudan.edu.cn/) of [Fudan University](https://www.fudan.edu.cn/) advised by Assistant Professor [Niu-tao Liu (柳钮滔)](http://www.it.fudan.edu.cn/En/Data/View/3966), and a member of [EMW Lab (电磁波信息科学教育部重点实验室)](https://emwlab.fudan.edu.cn/), which is led by Professor [Ya-qiu Jin (金亚秋)](http://www.it.fudan.edu.cn/Data/View/1044).
 
-I completed my undergraduate at [Northwest University](https://www.nwu.edu.cn/) where I advised by Assistant Professor [Yu-dan Ren (任玉丹)](https://faculty.nwu.edu.cn/YudanRen/zh_CN/index/81077/list/index.htm)
+Prior to this, I was fortunate to be advised by Assistant Professor [Yu-dan Ren (任玉丹)](https://faculty.nwu.edu.cn/YudanRen/zh_CN/index/81077/list/index.htm) and completed my undergraduate at [Northwest University](https://www.nwu.edu.cn/).
 
+My current research focus on computer vision and deep learning, especially in low-level field like remote sense.
 <!-- # 🔥 News
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
