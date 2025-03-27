@@ -19,35 +19,31 @@ redirect_from:
 
 I am a first-year M.S. student at [the Department of Communication Science and Engineering](https://cse.fudan.edu.cn/) of [Fudan University](https://www.fudan.edu.cn/) advised by Assistant Professor [Niu-tao Liu (柳钮滔)](http://www.it.fudan.edu.cn/En/Data/View/3966), and a member of [EMW Lab (电磁波信息科学教育部重点实验室)](https://emwlab.fudan.edu.cn/), which is led by Professor [Ya-qiu Jin (金亚秋)](http://www.it.fudan.edu.cn/Data/View/1044).
 
-Prior to this, I was fortunate to be advised by Assistant Professor [Yu-dan Ren (任玉丹)](https://faculty.nwu.edu.cn/YudanRen/zh_CN/index/81077/list/index.htm) and completed my undergraduate at [Northwest University](https://www.nwu.edu.cn/).
+Prior to this, I workeded in [Tencent (腾讯)](https://www.tencent.com/zh-cn/) as Software Engineer. I completed my undergraduate at [Northwest University](https://www.nwu.edu.cn/), where I was fortunate to be advised by Assistant Professor [Yu-dan Ren (任玉丹)](https://faculty.nwu.edu.cn/YudanRen/zh_CN/index/81077/list/index.htm). 
 
 My current research focus on computer vision and deep learning, especially in low-level field like remote sensing.
 
-<!-- # 🔥 News
+# 🔥 News
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 
 # 📝 Publication <a href='https://scholar.google.com/citations?user=VzvP5a8AAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
 
 ## Preprint
-
 - **See the Darkest Regions of the Moon with Synthetic Aperture Radar and CycleGAN** <br>
 Tong Xia, Niu-tao Liu*, **Yi Zheng**, Ya-qiu Jin, Feng Xu. <br>
 Under Review in IEEE Transactions on Geoscience and Remote Sensing. <br>
 [[Paper]](./resources/preprint/TGRS-2503.pdf)
 
 # 🎖 Honor
-
 - *2022.04*, Jingfeng Scholarship(**竞锋奖学金**), Northwest University.
 - *2021.05*, ACM-ICPC Asia Regional Contest, **Silver Medal**, Yinchuan.
 - *2021.05*, China Collegiate Programming Contest(Invitation), **Silver Medal**, Xiangtan.
 
 # 🤝 Mentoring
-
 I am very lucky to work with the following talented students:
 
-- [Yiqing Sun(孙以清)], Now B.Sc student@Fudan University.
-- [Zhendong Xie(谢震东)], Now B.Sc student@Fudan University.
+- [Yiqing Sun(孙以清)], Now B.Sc Student@Fudan University.
+- [Zhendong Xie(谢震东)], Now B.Sc Student@Fudan University.
 
 # 📖 Education
 - *2024.09 - Now*, Master, Artificial Intelligence, Fudan University, Shanghai.
