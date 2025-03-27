@@ -49,15 +49,10 @@ In: Proceedings of the 40th International Conference on Machine Learning, Hawaii
 
 ## Preprint
 
-- **LawGPT: Knowledge-Guided Data Generation and Its Application to Legal LLM** <br>
-**Zhi Zhou**, Kun-Yang Yu, Shi-Yu Tian, Xiao-Wen Yang, Jiang-Xin Shi, Peng-Xiao Song, Yi-Xuan Jin, Lan-Zhe Guo, Yu-Feng Li. <br>
-Under Review. <br>
-[[Paper]](./resources/preprint/LawGPT.pdf)
-
 - **See the Darkest Regions of the Moon with Synthetic Aperture Radar and CycleGAN** <br>
 Tong Xia, Niu-tao Liu*, **Yi Zheng**, Ya-qiu Jin, Feng Xu. <br>
 Under Review in IEEE Transactions on Geoscience and Remote Sensing. <br>
-[[Paper]](./resources/preprint/LawGPT.pdf)
+[[Paper]](./resources/preprint/TGRS-2503.pdf)
 
 # 🎖 Honor
 
