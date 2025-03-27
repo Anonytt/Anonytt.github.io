@@ -29,24 +29,6 @@ My current research focus on computer vision and deep learning, especially in lo
 
 # 📝 Publication <a href='https://scholar.google.com/citations?user=VzvP5a8AAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
 
-<!-- <div class='paper-box'>
-<div class='paper-box-image'><div><div class="badge">ICML 2023</div><img src='../images/ICML2023_ODS_Thumb.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-**ODS: Test-Time Adaptation in the Presence of Open-World Data Shift.**
-
-**Zhi Zhou**, Lan-Zhe Guo, Lin-Han Jia, Ding-Chu Zhang, Yu-Feng Li.
-
-In: Proceedings of the 40th International Conference on Machine Learning, Hawaii, 2023. 
-
-<span style="color:red">Oral Presentation.</span>
-[[Paper]](../resources/ICML2023_ODS.pdf) 
-[[Code]](https://www.lamda.nju.edu.cn/code_ODS.ashx)
-[[Poster]](../resources/ICML2023_ODS_Poster.png)
-[[Slide]](../resources/ICML2023_ODS_Slides.pdf) 
-[[Video]](https://icml.cc/virtual/2023/poster/24841)
-</div>
-</div> -->
-
 ## Preprint
 
 - **See the Darkest Regions of the Moon with Synthetic Aperture Radar and CycleGAN** <br>
@@ -56,7 +38,7 @@ Under Review in IEEE Transactions on Geoscience and Remote Sensing. <br>
 
 # 🎖 Honor
 
-- *2019.12*, Jingfeng Scholarship(**竞锋奖学金**), Northwest University.
+- *2022.04*, Jingfeng Scholarship(**竞锋奖学金**), Northwest University.
 - *2021.05*, ACM-ICPC Asia Regional Contest, **Silver Medal**, Yinchuan.
 - *2021.05*, China Collegiate Programming Contest(Invitation), **Silver Medal**, Xiangtan.
 
@@ -64,19 +46,13 @@ Under Review in IEEE Transactions on Geoscience and Remote Sensing. <br>
 
 I am very lucky to work with the following talented students:
 
-- Senior Program Committee Member, IJCAI 2025.
-- Senior Program Committee Member, ACML 2022.
-- Program Committee Member, NeurIPS 2022/2023/2024.
-- Program Committee Member, ICML 2022/2023/2024/2025.
-- Program Committee Member, ICLR 2024/2025.
-- Program Committee Member, KDD 2024.
-- Program Committee Member, AAAI 2023/2024/2025.
-- Program Committee Member, ECAI 2023/2024.
+- [Yiqing Sun(孙以清)], Now B.Sc student@Fudan University.
+- [Zhendong Xie(谢震东)], Now B.Sc student@Fudan University.
 
 # 📖 Education
-- *2022.09 - Now*, Ph.D., Computer Science and Technology, Nanjing University, Nanjing.
-- *2020.09 - 2022.06*, Master, Computer Science and Technology, Nanjing University, Nanjing.
-- *2016.09 - 2020.06*. Undergraduate, Tang Aoqing Honors Program (Computer Science and Technology), Jilin University, Jilin.
+- *2024.09 - Now*, Master, Artificial Intelligence, Fudan University, Shanghai.
+- *2024.03 - 2024.09*, Research Assistant, Fudan University, Shanghai.
+- *2018.09 - 2023.06*. Undergraduate, Electronic Information Science and Technology, Northwest University, Xi'an.
 
 <!-- # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
