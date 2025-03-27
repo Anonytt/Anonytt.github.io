@@ -21,7 +21,7 @@ I am a first-year M.S. student at [the Department of Communication Science and E
 
 Prior to this, I was fortunate to be advised by Assistant Professor [Yu-dan Ren (任玉丹)](https://faculty.nwu.edu.cn/YudanRen/zh_CN/index/81077/list/index.htm) and completed my undergraduate at [Northwest University](https://www.nwu.edu.cn/).
 
-My current research focus on computer vision and deep learning, especially in low-level field like remote sense.
+My current research focus on computer vision and deep learning, especially in low-level field like remote sensing.
 
 <!-- # 🔥 News
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
@@ -54,25 +54,10 @@ In: Proceedings of the 40th International Conference on Machine Learning, Hawaii
 Under Review. <br>
 [[Paper]](./resources/preprint/LawGPT.pdf)
 
-## Other Papers
-
-- **You Only Submit One Image to Find the Most Suitable Generative Model** <br>
-**Zhi Zhou**, Lan-Zhe Guo, Pengxiao Song, Yu-Feng Li. <br>
-NeurIPS 2023 Diffusion Workshop. <br>
-[[Page]](https://neurips.cc/virtual/2023/74865)
-[[Paper]](https://arxiv.org/abs/2412.12232)
-
-# 🛠 Software
-
-- LawGPT: A Large Language Model in the Legal Domain. [[GitHub]](https://github.com/pengxiao-song/LaWGPT) 
-- LAMDA-SSL: A Comprehensive and Easy-to-Use Toolkit for Semi-Supervised Learning. [[GitHub]](https://github.com/YGZWQZD/LAMDA-SSL) 
-
-# 💻 Project
-
-- *2022.06 - 2023.06*, Fraud Detection System based on Weakly Supervised Learning, [Huawei](../resources/Huawei2023_Award.pdf), China.
-- *2021.10 - 2022.05*, Housing Sales Customer Rating Model Optimization, [Beike (Internship)](../resources/Beike2021.pdf), China.
-- *2021.03 - 2022.12*, Concept Incremental Learning with Active Anotations, Hikvision, China.
-- *2020.07 - 2021.09*, Liability Judgment System based on Semi-Supervised Multi-Label Learning, Didi (Internship), China.
+- **See the Darkest Regions of the Moon with Synthetic Aperture Radar and CycleGAN** <br>
+Tong Xia, Niu-tao Liu*, **Yi Zheng**, Ya-qiu Jin, Feng Xu. <br>
+Under Review in IEEE Transactions on Geoscience and Remote Sensing. <br>
+[[Paper]](./resources/preprint/LawGPT.pdf)
 
 # 🎖 Honor
 
