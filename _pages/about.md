@@ -56,26 +56,13 @@ Under Review in IEEE Transactions on Geoscience and Remote Sensing. <br>
 
 # 🎖 Honor
 
-- *2023.12*, [National Scholarship](../resources/NJU2023_NationalScholarship.pdf), Nanjing University.
-- *2023.11*, [China Mobile Hackathon - University Joint Research Institute Special Competition in Machine Vision and Artificial Intelligence](../resources/NJU2023_AIHackathon.pdf), Nanjing University.
-- *2022.06*, [LAMDA Excellent Student Award](../resources/LAMDA2022_Elite.pdf), Nanjing University.
-- *2022.03*, [Tencent Scholarship](../resources/Tencent2021_Scholarship.pdf), Nanjing University.
-- *2020.06*, [Top 10 College Student of the Year](../resources/JLU2019_Top10.pdf), Jilin University.
-- *2019.12*, [National Scholarship](../resources/JLU2019_NationalScholarship.pdf), Jilin University.
-- *2019.10*, CCF Collegiate Computer Systems & Programming Contest, [Gold Medal (11th)](../resources/CCSP2019.pdf), Suzhou.
-- *2019.06*, [Tang Aoqing Honors Program of Research & Practice](../resources/JLU2019_TAQScholarship.jpg), Jilin University.
-- *2018.12*, ACM-ICPC Asia Regional Contest, [Gold Medal (19th)](../resources/ICPC2018_ECFinal.pdf), EC-Final.
-- *2018.11*, [National Scholarship](../resources/JLU2018_NationalScholarship.jpg), Jilin University.
-- *2018.10*, ACM-ICPC Asia Regional Contest, [Gold Medal](../resources/ICPC2018_Xuzhou.pdf), Xuzhou.
-- *2018.10*, ACM-ICPC Asia Regional Contest, [Gold Medal (16th)](../resources/ICPC2018_Shenyang.pdf), Shenyang.
-- *2018.09*, China Collegiate Programming Contest, [Gold Medal (4th)](../resources/CCPC2018_Qinghuangdao.pdf), Qinhuangdao.
-- *2018.09*, China Collegiate Programming Contest, [Gold Medal (10th)](../resources/CCPC2018_Jilin.pdf), Jilin.
-- *2018.06*, [Tang Aoqing Honors Program of Research & Practice](../resources/JLU2018_TAQScholarship.jpg), Jilin University.
-- *2017.11*, [National Scholarship](../resources/JLU2017_NationalScholarship.jpg), Jilin University.
+- *2019.12*, Jingfeng Scholarship(**竞锋奖学金**), Northwest University.
+- *2021.05*, ACM-ICPC Asia Regional Contest, **Silver Medal**, Yinchuan.
+- *2021.05*, China Collegiate Programming Contest(Invitation), **Silver Medal**, Xiangtan.
 
-# 🤝 Activity
+# 🤝 Mentoring
 
-## Conference Committee
+I am very lucky to work with the following talented students:
 
 - Senior Program Committee Member, IJCAI 2025.
 - Senior Program Committee Member, ACML 2022.
@@ -85,17 +72,6 @@ Under Review in IEEE Transactions on Geoscience and Remote Sensing. <br>
 - Program Committee Member, KDD 2024.
 - Program Committee Member, AAAI 2023/2024/2025.
 - Program Committee Member, ECAI 2023/2024.
-
-## Journal Reviewer
-- Reviewer for Machine Learning Journal (MLJ)
-- Reviewer for IEEE Transactions on Knowledge and Data Engineering (TKDE)
-- Reviewer for IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)
-- Reviewer for IEEE Transactions on Neural Networks and Learning Systems (TNNLS)
-- Reviewer for Frontiers of Computer Science (FCS)
-
-## Teaching Assistant
-- *2022.02 - 2022.06*, Teaching Assistant for Introduction to Advanced Machine Learning, Nanjing Univeristy.
-- *2021.09 - 2022.01*, Teaching Assistant for Introduction to Machine Learning, Nanjing Univeristy.
 
 # 📖 Education
 - *2022.09 - Now*, Ph.D., Computer Science and Technology, Nanjing University, Nanjing.
