@@ -6,8 +6,8 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Zhi Zhou (周植)"
-description              : "<center>A Ph.D. Student of LAMDA Group</center>"
+title                    : "Yi Zheng (郑益)"
+description              : "<center>A M.S. Student of EMW Lab</center>"
 repository               : "WNJXYK/WNJXYK.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -21,14 +21,14 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "<center>Zhi Zhou</center>\n<center>周植</center>"
+  name             : "<center>Yi Zheng</center>\n<center>郑益</center>"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "<center>Nanjing University</center>"
-  location         : "Nanjing, China"
+  bio              : "<center>Fudan University</center>"
+  location         : "Shanghai, China"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=VzvP5a8AAAAJ"
-  email            : "zhouz@lamda.nju.edu.cn"
+  email            : "zhengyi24@m.fdu.edu.cn"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              : 
   bitbucket        :
@@ -37,15 +37,15 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "WNJXYK"
+  github           : "Anonytt"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : # e.g., "linkedin username"
-  dblp             : "https://dblp.org/pid/04/2090-7.html"
-  orcid            : "https://orcid.org/0000-0001-7408-1200"
+  dblp             : 
+  orcid            : 
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
