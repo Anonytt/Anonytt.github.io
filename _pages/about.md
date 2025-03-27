@@ -17,9 +17,9 @@ redirect_from:
 
 # 🤵🏻 About Me
 
-I am a first-year M.S. student at [the Department of Communication Science and Engineering](https://cse.fudan.edu.cn/) of [Fudan University](https://www.nju.edu.cn/) advised by Professor [Yu-Feng Li (李宇峰)](https://cs.nju.edu.cn/liyf/index.htm), and a member of [LAMDA Group (机器学习与数据挖掘研究所)](https://www.lamda.nju.edu.cn/CH.MainPage.ashx), which is led by Professor [Zhi-Hua Zhou (周志华)](https://cs.nju.edu.cn/zhouzh/index.htm).
+I am a first-year M.S. student at [the Department of Communication Science and Engineering](https://cse.fudan.edu.cn/) of [Fudan University](https://www.fudan.edu.cn/) advised by Assistant Professor [Niu-tao Liu (柳钮滔)](http://www.it.fudan.edu.cn/En/Data/View/3966), and a member of [EMW Lab (电磁波信息科学教育部重点实验室)](https://emwlab.fudan.edu.cn/), which is led by Professor [Ya-qiu Jin (金亚秋)](http://www.it.fudan.edu.cn/Data/View/1044).
 
-I received my B.Sc. degree from [the Department of Computer Science and Technology](http://ccst.jlu.edu.cn/) of [Jilin University](https://www.jlu.edu.cn/). In September 2022, I was admitted to study for a Ph.D. degree at Nanjing University without an entrance examination.
+I completed my undergraduate at [Northwest University](https://www.nwu.edu.cn/) where I advised by Assistant Professor [Yu-dan Ren (任玉丹)](https://faculty.nwu.edu.cn/YudanRen/zh_CN/index/81077/list/index.htm)
 
 <!-- # 🔥 News
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
