@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Yi Zheng (郑益)"
-description              : "<center>A M.S. Student of EMW Lab</center>"
+description              : "<center>M.S. Student of EMW Lab</center>"
 repository               : "WNJXYK/WNJXYK.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -28,7 +28,7 @@ author:
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=VzvP5a8AAAAJ"
-  email            : "zhengyi24@m.fdu.edu.cn"
+  email            : " zhengyi24@m.fdu.edu.cn"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              : 
   bitbucket        :
