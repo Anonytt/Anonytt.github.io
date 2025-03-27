@@ -17,7 +17,7 @@ redirect_from:
 
 # 🤵🏻 About Me
 
-I am a second-year Ph.D. student at [the Department of Computer Science and Technology](https://cs.nju.edu.cn/main.htm) of [Nanjing University](https://www.nju.edu.cn/) advised by Professor [Yu-Feng Li (李宇峰)](https://cs.nju.edu.cn/liyf/index.htm), and a member of [LAMDA Group (机器学习与数据挖掘研究所)](https://www.lamda.nju.edu.cn/CH.MainPage.ashx), which is led by Professor [Zhi-Hua Zhou (周志华)](https://cs.nju.edu.cn/zhouzh/index.htm).
+I am a first-year M.S. student at [the Department of Communication Science and Engineering](https://cse.fudan.edu.cn/) of [Fudan University](https://www.nju.edu.cn/) advised by Professor [Yu-Feng Li (李宇峰)](https://cs.nju.edu.cn/liyf/index.htm), and a member of [LAMDA Group (机器学习与数据挖掘研究所)](https://www.lamda.nju.edu.cn/CH.MainPage.ashx), which is led by Professor [Zhi-Hua Zhou (周志华)](https://cs.nju.edu.cn/zhouzh/index.htm).
 
 I received my B.Sc. degree from [the Department of Computer Science and Technology](http://ccst.jlu.edu.cn/) of [Jilin University](https://www.jlu.edu.cn/). In September 2022, I was admitted to study for a Ph.D. degree at Nanjing University without an entrance examination.
 
