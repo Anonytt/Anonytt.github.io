@@ -3,23 +3,17 @@ main:
   - title: "About Me"
     url: "/#-about-me"
 
-  # - title: "News"
-  #   url: "/#-news"
+  - title: "News"
+    url: "/#-news"
 
   - title: "Publication"
     url: "/#-publication-"
 
-  - title: "Software"
-    url: "/#-software"
-
-  - title: "Project"
-    url: "/#-project"
-
   - title: "Honor"
     url: "/#-honor"
 
-  - title: "Activity"
-    url: "/#-activity"
+  - title: "Mentoring"
+    url: "/#-mentoring"
 
   - title: "Education"
     url: "/#-education"
