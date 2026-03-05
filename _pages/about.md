@@ -40,7 +40,7 @@ Under Review in IEEE Transactions on Geoscience and Remote Sensing(中科院一�
 [[Paper]](./resources/preprint/TGRS-2503.pdf)
 
 # 🎖 Honor
-- *2022.04*, Jingfeng Scholarship(**竞锋奖学金**), Northwest University.
+<!-- - *2022.04*, Jingfeng Scholarship(**竞锋奖学金**), Northwest University. -->
 - *2021.05*, ACM-ICPC Asia Regional Contest, **Silver Medal**, Yinchuan.
 - *2021.05*, China Collegiate Programming Contest(CCPC Invitation), **Silver Medal**, Xiangtan.
 
