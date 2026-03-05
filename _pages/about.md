@@ -21,7 +21,7 @@ I am a second-year M.S. student at [the Department of Communication Science and 
 
 Prior to this, I worked in [Tencent (腾讯)](https://www.tencent.com/zh-cn/) as a Software Engineer. I completed my undergraduate at [Northwest University](https://www.nwu.edu.cn/), where I was fortunate to be advised by Associate Professor [Yu-dan Ren (任玉丹)](https://faculty.nwu.edu.cn/YudanRen/zh_CN/index/81077/list/index.htm). 
 
-My current research focus on computer vision and deep learning. Always happy to connect and collaborate on related research — feel free to reach out.
+My current research focus on computer vision and deep learning. Always happy to connect and collaborate on related research.
 
 # 🔥 News
 - *2024.09*: &nbsp;🎉🎉 Start my academic journey at EMW-Lab@FDU. 
@@ -50,10 +50,10 @@ I am very lucky to work with the following talented students:
 - [Yiqing Sun(孙以清)], B.Sc@Fudan, now M.S student@Fudan.
 - [Zhendong Xie(谢正东)], B.Sc@Fudan, now M.S student@UCAS.
 
-<!-- # 📖 Education
+# 📖 Education
 - *2024.09 - Now*, Master, Artificial Intelligence, Fudan University, Shanghai.
 - *2024.03 - 2024.09*, Research Assistant, Fudan University, Shanghai.
-- *2018.09 - 2023.06*. Undergraduate, Electronic Information Science and Technology, Northwest University, Xi'an. -->
+- *2018.09 - 2022.06*. Undergraduate, Electronic Information Science and Technology, Northwest University, Xi'an.
 
 <!-- # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
