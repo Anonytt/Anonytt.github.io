@@ -17,7 +17,7 @@ redirect_from:
 
 # 🤵🏻 About Me
 
-I am a first-year M.S. student at [the Department of Communication Science and Engineering](https://cse.fudan.edu.cn/) of [Fudan University](https://www.fudan.edu.cn/) advised by Associate Professor [Niu-tao Liu (柳钮滔)](http://www.it.fudan.edu.cn/En/Data/View/3966), and a member of [EMW Lab (电磁波信息科学教育部重点实验室)](https://emwlab.fudan.edu.cn/), which is led by Professor [Ya-qiu Jin (金亚秋)](http://www.it.fudan.edu.cn/Data/View/1044).
+I am a second-year M.S. student at [the Department of Communication Science and Engineering](https://cse.fudan.edu.cn/) of [Fudan University](https://www.fudan.edu.cn/) advised by Associate Professor [Niu-tao Liu (柳钮滔)](http://www.it.fudan.edu.cn/En/Data/View/3966), and a member of [EMW Lab (电磁波信息科学教育部重点实验室)](https://emwlab.fudan.edu.cn/), which is led by Professor [Ya-qiu Jin (金亚秋)](http://www.it.fudan.edu.cn/Data/View/1044).
 
 Prior to this, I worked in [Tencent (腾讯)](https://www.tencent.com/zh-cn/) as a Software Engineer. I completed my undergraduate at [Northwest University](https://www.nwu.edu.cn/), where I was fortunate to be advised by Associate Professor [Yu-dan Ren (任玉丹)](https://faculty.nwu.edu.cn/YudanRen/zh_CN/index/81077/list/index.htm). 
 
@@ -31,18 +31,18 @@ My current research focus on computer vision and deep learning. Always happy to 
 ## Preprint
 - **MoEDEM: Generation of Lunar High-Resolution DEM and Extraction of Surface Roughness** <br>
  **Yi Zheng**, Tong Xia, Niu-tao Liu*, Ya-qiu Jin. <br>
-Under Review in ISPRS Journal of Photogrammetry and Remote Sensing(SCI一区Top, IF:12.2). <br>
-<!-- [[Paper]](./resources/preprint/TGRS-2503.pdf) -->
+Under Review in ISPRS Journal of Photogrammetry and Remote Sensing(中科院一区Top, IF:12.2). <br>
+[[Paper]](./resources/preprint/TGRS-2503.pdf)
 
 - **See the Darkest Regions of the Moon with Synthetic Aperture Radar and CycleGAN** <br>
 Tong Xia, Niu-tao Liu*, **Yi Zheng**, Ya-qiu Jin, Feng Xu. <br>
-Under Review in IEEE Transactions on Geoscience and Remote Sensing(SCI一区, CCF-B, IF:8.6). <br>
+Under Review in IEEE Transactions on Geoscience and Remote Sensing(中科院一区, CCF-B, IF:8.6). <br>
 [[Paper]](./resources/preprint/TGRS-2503.pdf)
 
 # 🎖 Honor
 - *2022.04*, Jingfeng Scholarship(**竞锋奖学金**), Northwest University.
 - *2021.05*, ACM-ICPC Asia Regional Contest, **Silver Medal**, Yinchuan.
-- *2021.05*, China Collegiate Programming Contest(Invitation), **Silver Medal**, Xiangtan.
+- *2021.05*, China Collegiate Programming Contest(CCPC Invitation), **Silver Medal**, Xiangtan.
 
 # 🤝 Mentoring
 I am very lucky to work with the following talented students:
