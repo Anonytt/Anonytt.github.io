@@ -34,10 +34,10 @@ My current research focus on computer vision and deep learning. Always happy to 
 Under Review in ISPRS Journal of Photogrammetry and Remote Sensing(中科院一区Top, IF:12.2). <br>
 [[Paper]](./resources/preprint/TGRS-2503.pdf)
 
-- **See the Darkest Regions of the Moon with Synthetic Aperture Radar and CycleGAN** <br>
+- **LunarSAR2O: SAR-to-Optical Image Translation for Permanently Shadowed Region Exploration and its Application** <br>
 Tong Xia, Niu-tao Liu*, **Yi Zheng**, Ya-qiu Jin, Feng Xu. <br>
 Under Review in IEEE Transactions on Geoscience and Remote Sensing(中科院一区, CCF-B, IF:8.6). <br>
-[[Paper]](./resources/preprint/TGRS-2503.pdf)
+[[Paper]](./resources/preprint/ICARUS-D-25-00580.pdf)
 
 # 🎖 Honor
 <!-- - *2022.04*, Jingfeng Scholarship(**竞锋奖学金**), Northwest University. -->
@@ -49,6 +49,9 @@ I am very lucky to work with the following talented students:
 
 - [Yiqing Sun(孙以清)], B.Sc@Fudan, now M.S student@Fudan.
 - [Zhendong Xie(谢正东)], B.Sc@Fudan, now M.S student@UCAS.
+
+I served as a TA for the following courses.
+- AIB310003.01 **<Fundamentals of Deep Learning>**, lead by Prof.[Xiao-guang Sun (孙晓光)](https://ai.fudan.edu.cn/sxg/list.htm)
 
 # 📖 Education
 - *2024.09 - Now*, Master, Artificial Intelligence, Fudan University, Shanghai.
