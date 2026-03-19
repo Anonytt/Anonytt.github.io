@@ -56,7 +56,7 @@ I served as a TA for the following courses:
 # 📖 Education
 - *2024.09 - Now*, Master, Artificial Intelligence, Fudan University, Shanghai.
 - *2024.03 - 2024.09*, Research Assistant, Fudan University, Shanghai.
-- *2018.09 - 2022.06*. Undergraduate, Electronic Information Science and Technology, Northwest University, Xi'an.
+- *2018.09 - 2023.06*. Undergraduate, Electronic Information Science and Technology, Northwest University, Xi'an.
 
 <!-- # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
