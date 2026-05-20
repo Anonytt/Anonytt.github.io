@@ -17,7 +17,7 @@ redirect_from:
 
 # 🤵🏻 About Me
 
-I am a second-year M.S. student at [the Department of Communication Science and Engineering](https://cse.fudan.edu.cn/) of [Fudan University](https://www.fudan.edu.cn/) advised by Associate Professor [Niu-tao Liu (柳钮滔)](http://www.it.fudan.edu.cn/En/Data/View/3966), and a member of [EMW Lab (电磁波信息科学教育部重点实验室)](https://emwlab.fudan.edu.cn/), which is led by Professor [Ya-qiu Jin (金亚秋)](http://www.it.fudan.edu.cn/Data/View/1044). I am also currently a research intern at ChinaUnicom AI Lab, where I work on agent efficiency improvement with [Ze-lei Liu (刘泽雷)](https://scholar.google.com/citations?user=NXedw80AAAAJ&hl=zh-CN) and [Chao Hu (胡超)](https://ai-chaohu.github.io/).
+I am a second-year M.S. student at [the Department of Communication Science and Engineering](https://cse.fudan.edu.cn/) of [Fudan University](https://www.fudan.edu.cn/) advised by Associate Professor [Niu-tao Liu (柳钮滔)](http://www.it.fudan.edu.cn/En/Data/View/3966), and a member of [EMW Lab (电磁波信息科学教育部重点实验室)](https://emwlab.fudan.edu.cn/), which is led by Professor [Ya-qiu Jin (金亚秋)](http://www.it.fudan.edu.cn/Data/View/1044). I am also currently a research interner at ChinaUnicom AI Lab, where I work on agent efficiency improvement with [Ze-lei Liu (刘泽雷)](https://scholar.google.com/citations?user=NXedw80AAAAJ&hl=zh-CN) and [Chao Hu (胡超)](https://ai-chaohu.github.io/).
 
 Prior to this, I worked in [Tencent (腾讯)](https://www.tencent.com/zh-cn/) as a Software Engineer. I completed my undergraduate at [Northwest University](https://www.nwu.edu.cn/), where I was fortunate to be advised by Associate Professor [Yu-dan Ren (任玉丹)](https://faculty.nwu.edu.cn/YudanRen/zh_CN/index/81077/list/index.htm). 
 
@@ -25,19 +25,19 @@ My current research focus on Large Language Models. Always happy to connect and 
 
 # 🔥 News
 - *2024.09*: &nbsp;🎉🎉 Start my academic journey at EMW-Lab@FDU. 
-- *2026.05*: &nbsp;🎉🎉 I joined AI-Lab@ChinaUnicom. 
+- *2026.05*: &nbsp;🎉🎉 I joined AI-Lab@ChinaUnicom as a research interner. 
 
 # 📝 Publication <a href='https://scholar.google.com/citations?user=VzvP5a8AAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
 
 ## Preprint
-- **MoEDEM: Generation of Lunar High-Resolution DEM and Extraction of Surface Roughness** <br>
+- **MMoEDTM: Improving the Generalization of Multi-terrain Lunar DTM and Optimization of Rocky Surface Generation** <br>
  **Yi Zheng**, Tong Xia, Niu-tao Liu*, Ya-qiu Jin. <br>
-Under Review in ISPRS Journal of Photogrammetry and Remote Sensing(中科院一区Top, IF:12.2). <br>
-[[Paper]](./resources/preprint/TGRS-2503.pdf)
+Under Review in IEEE Transactions on Geoscience and Remote Sensing(中科院一区, JCR Q1, CCF-B, IF:8.6). <br>
+[[Paper]](./resources/preprint/终版_TGRS-Yi Zheng_英文V6.pdf)
 
 - **LunarSAR2O: SAR-to-Optical Image Translation for Permanently Shadowed Region Exploration and its Application** <br>
 Tong Xia, Niu-tao Liu*, **Yi Zheng**, Ya-qiu Jin, Feng Xu. <br>
-Under Review in IEEE Transactions on Geoscience and Remote Sensing(中科院一区, CCF-B, IF:8.6). <br>
+Accepted by Icarus(中科院二区, JCR Q2, IF:3.12). <br>
 [[Paper]](./resources/preprint/ICARUS-D-25-00580.pdf)
 
 # 🎖 Honor
