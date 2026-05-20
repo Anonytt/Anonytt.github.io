@@ -17,7 +17,7 @@ redirect_from:
 
 # 🤵🏻 About Me
 
-I am a second-year M.S. student at [the Department of Communication Science and Engineering](https://cse.fudan.edu.cn/) of [Fudan University](https://www.fudan.edu.cn/) advised by Associate Professor [Niu-tao Liu (柳钮滔)](http://www.it.fudan.edu.cn/En/Data/View/3966), and a member of [EMW Lab (电磁波信息科学教育部重点实验室)](https://emwlab.fudan.edu.cn/), which is led by Professor [Ya-qiu Jin (金亚秋)](http://www.it.fudan.edu.cn/Data/View/1044).
+I am a second-year M.S. student at [the Department of Communication Science and Engineering](https://cse.fudan.edu.cn/) of [Fudan University](https://www.fudan.edu.cn/) advised by Associate Professor [Niu-tao Liu (柳钮滔)](http://www.it.fudan.edu.cn/En/Data/View/3966), and a member of [EMW Lab (电磁波信息科学教育部重点实验室)](https://emwlab.fudan.edu.cn/), which is led by Professor [Ya-qiu Jin (金亚秋)](http://www.it.fudan.edu.cn/Data/View/1044). I am also currently a research intern at ChinaUnicom AI Lab, where I work on agent efficiency improvement with [Ze-lei Liu (刘泽雷)](https://scholar.google.com/citations?user=NXedw80AAAAJ&hl=zh-CN) and [Chao Hu (胡超)](https://ai-chaohu.github.io/).
 
 Prior to this, I worked in [Tencent (腾讯)](https://www.tencent.com/zh-cn/) as a Software Engineer. I completed my undergraduate at [Northwest University](https://www.nwu.edu.cn/), where I was fortunate to be advised by Associate Professor [Yu-dan Ren (任玉丹)](https://faculty.nwu.edu.cn/YudanRen/zh_CN/index/81077/list/index.htm). 
 
@@ -25,6 +25,7 @@ My current research focus on Large Language Models. Always happy to connect and 
 
 # 🔥 News
 - *2024.09*: &nbsp;🎉🎉 Start my academic journey at EMW-Lab@FDU. 
+- *2026.05*: &nbsp;🎉🎉 I joined AI-Lab@ChinaUnicom. 
 
 # 📝 Publication <a href='https://scholar.google.com/citations?user=VzvP5a8AAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
 
@@ -49,6 +50,7 @@ I am very lucky to work with the following talented students:
 
 - [Yiqing Sun(孙以清)], B.Sc@Fudan, now M.S student@Fudan.
 - [Zhengdong Xie(谢正东)], B.Sc@Fudan, now M.S student@UCAS.
+- [Zhendong Zhang(张振东)], B.Sc@CQUPT, now M.S student@Fudan.
 
 I served as a TA for the following courses:
 - AIB310003.01 **Fundamentals of Deep Learning**, lead by Prof.[Xiao-guang Sun (孙晓光)](https://ai.fudan.edu.cn/sxg/list.htm)
@@ -56,7 +58,7 @@ I served as a TA for the following courses:
 # 📖 Education
 - *2024.09 - Now*, Master, Artificial Intelligence, Fudan University, Shanghai.
 - *2024.03 - 2024.09*, Research Assistant, Fudan University, Shanghai.
-- *2018.09 - 2023.06*. Undergraduate, Electronic Information Science and Technology, Northwest University, Xi'an.
+- *2018.09 - 2022.06*. Undergraduate, Electronic Information Science and Technology, Northwest University, Xi'an.
 
 <!-- # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
