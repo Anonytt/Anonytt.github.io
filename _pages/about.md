@@ -17,7 +17,7 @@ redirect_from:
 
 # 🤵🏻 About Me
 
-I am a second-year M.S. student at [the Department of Communication Science and Engineering](https://cse.fudan.edu.cn/) of [Fudan University](https://www.fudan.edu.cn/) advised by Associate Professor [Niu-tao Liu (柳钮滔)](http://www.it.fudan.edu.cn/En/Data/View/3966), and a member of [EMW Lab (电磁波信息科学教育部重点实验室)](https://emwlab.fudan.edu.cn/), which is led by Professor [Ya-qiu Jin (金亚秋)](http://www.it.fudan.edu.cn/Data/View/1044). I am also a research interner at ChinaUnicom AI Lab, where I'm working on agent efficiency improvement with [Ze-lei Liu (刘泽雷)](https://scholar.google.com/citations?user=NXedw80AAAAJ&hl=zh-CN) and [Chao Hu (胡超)](https://ai-chaohu.github.io/).
+I am a second-year M.S. student at [the Department of Communication Science and Engineering](https://cse.fudan.edu.cn/) of [Fudan University](https://www.fudan.edu.cn/) advised by Associate Professor [Niu-tao Liu (柳钮滔)](http://www.it.fudan.edu.cn/En/Data/View/3966), and a member of [EMW Lab (电磁波信息科学教育部重点实验室)](https://emwlab.fudan.edu.cn/), which is led by Professor [Ya-qiu Jin (金亚秋)](http://www.it.fudan.edu.cn/Data/View/1044). I am also a research interner at [ChinaUnicom AI-Lab (中国联通人工智能实验室)](https://www.chinaunicom.com.cn/?t=1779350886740), where I'm working on agent efficiency improvement with [Ze-lei Liu (刘泽雷)](https://scholar.google.com/citations?user=NXedw80AAAAJ&hl=zh-CN) and [Chao Hu (胡超)](https://ai-chaohu.github.io/).
 
 Prior to this, I worked in [Tencent (腾讯)](https://www.tencent.com/zh-cn/) as a Software Engineer. I completed my undergraduate at [Northwest University](https://www.nwu.edu.cn/), where I was fortunate to be advised by Associate Professor [Yu-dan Ren (任玉丹)](https://faculty.nwu.edu.cn/YudanRen/zh_CN/index/81077/list/index.htm). 
 
