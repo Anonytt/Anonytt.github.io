@@ -24,8 +24,8 @@ Prior to this, I worked in [Tencent (腾讯)](https://www.tencent.com/zh-cn/) as
 My current research focus on Large Language Models. Always happy to connect and collaborate on related research.
 
 # 🔥 News
-- *2024.09*: &nbsp;🎉🎉 Start my academic journey at EMW-Lab@Fudan. 
 - *2026.05*: &nbsp;🎉🎉 I joined AI-Lab@ChinaUnicom as a research interner. 
+- *2024.09*: &nbsp;🎉🎉 Start my academic journey at EMW-Lab@Fudan. 
 
 # 📝 Publication <a href='https://scholar.google.com/citations?user=VzvP5a8AAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
 
