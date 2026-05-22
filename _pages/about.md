@@ -29,7 +29,7 @@ My current research focus on Large Language Models. Always happy to connect and 
 
 # 📝 Publication <a href='https://scholar.google.com/citations?user=VzvP5a8AAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
 
-## Preprint
+## Journal Paper
 - **MMoEDTM: Improving the Generalization of Multi-terrain Lunar DTM and Optimization of Rocky Surface Generation** <br>
  **Yi Zheng**, Tong Xia, Niu-tao Liu*, Ya-qiu Jin. <br>
 Under Review in IEEE Transactions on Geoscience and Remote Sensing(中科院一区, JCR Q1, CCF-B, IF:8.6). <br>
@@ -38,7 +38,7 @@ Under Review in IEEE Transactions on Geoscience and Remote Sensing(中科院一�
 - **LunarSAR2O: SAR-to-Optical Image Translation for Permanently Shadowed Region Exploration and its Application** <br>
 Tong Xia, Niu-tao Liu*, **Yi Zheng**, Ya-qiu Jin, Feng Xu. <br>
 Accepted by Icarus(中科院二区, JCR Q2, IF:3.12). <br>
-[[Paper]](./resources/preprint/ICARUS-D-25-00580.pdf)
+[[Paper]](https://www.sciencedirect.com/science/article/pii/S0019103526002447)
 
 # 🎖 Honor
 <!-- - *2022.04*, Jingfeng Scholarship(**竞锋奖学金**), Northwest University. -->
