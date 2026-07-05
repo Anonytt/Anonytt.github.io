@@ -17,7 +17,7 @@ redirect_from:
 
 # 🤵🏻 About Me
 
-I am a second-year M.S. student at [the Department of Communication Science and Engineering](https://cse.fudan.edu.cn/) of [Fudan University](https://www.fudan.edu.cn/) advised by Associate Professor [Niu-tao Liu (柳钮滔)](http://www.it.fudan.edu.cn/En/Data/View/3966), and a member of [EMW Lab (电磁波信息科学教育部重点实验室)](https://emwlab.fudan.edu.cn/), which is led by Professor [Ya-qiu Jin (金亚秋)](http://www.it.fudan.edu.cn/Data/View/1044). I am also a research interner at [ChinaUnicom AI-Lab (中国联通人工智能实验室)](https://www.chinaunicom.com.cn/?t=1779350886740), where I'm working on Parametric Memory of Language Models Improvement with [Chao Hu (胡超)](https://ai-chaohu.github.io/).
+I am a second-year M.S. student at [the Department of Communication Science and Engineering](https://cse.fudan.edu.cn/) of [Fudan University](https://www.fudan.edu.cn/) advised by Associate Professor [Niu-tao Liu (柳钮滔)](http://www.it.fudan.edu.cn/En/Data/View/3966), and a member of [EMW Lab (电磁波信息科学教育部重点实验室)](https://emwlab.fudan.edu.cn/), which is led by Professor [Ya-qiu Jin (金亚秋)](http://www.it.fudan.edu.cn/Data/View/1044). I am also a research interner at [ChinaUnicom AI-Lab (中国联通人工智能实验室)](https://www.chinaunicom.com.cn/?t=1779350886740), where I'm working on Parametric Memory of Language Models Improvement with Dr.[Chao Hu (胡超)](https://ai-chaohu.github.io/).
 
 Prior to this, I worked in [Tencent (腾讯)](https://www.tencent.com/zh-cn/) as a Software Engineer. I completed my undergraduate at [Northwest University](https://www.nwu.edu.cn/), where I was fortunate to be advised by Associate Professor [Yu-dan Ren (任玉丹)](https://faculty.nwu.edu.cn/YudanRen/zh_CN/index/81077/list/index.htm). 
 
@@ -32,19 +32,19 @@ My current research focus on Large Language Models. Always happy to connect and 
 ## Journal Paper
 - **MMoEDTM: Improving the Generalization of Multi-terrain Lunar DTM and Optimization of Rocky Surface Generation** <br>
  **Yi Zheng**, Tong Xia, Niu-tao Liu*, Ya-qiu Jin. <br>
-Under Review in IEEE Transactions on Geoscience and Remote Sensing(SCI一区, JCR Q1, CCF-B, IF:9.4). <br>
+Under Review in **IEEE Transactions on Geoscience and Remote Sensing**(SCI一区, JCR Q1, CCF-B, IF:9.4). <br>
 [[Paper]](./resources/preprint/终版_TGRS-Yi Zheng_英文V6.pdf)
 
 - **LunarSAR2O: SAR-to-Optical Image Translation for Permanently Shadowed Region Exploration and its Application** <br>
 Tong Xia, Niu-tao Liu*, **Yi Zheng**, Ya-qiu Jin, Feng Xu. <br>
-Accepted by Icarus(SCI二区, JCR Q2, IF:3.12). <br>
+Accepted by **Icarus**(SCI二区, JCR Q2, IF:3.12). <br>
 [[Paper]](https://www.sciencedirect.com/science/article/pii/S0019103526002447)
 
 ## Conference Paper
 - **LunarOS-Mini: A Two-Stage Decoupled Visual Language Model for Lunar SAR Imagery** <br>
  **Yi Zheng**, De-zhang Li, Niu-tao Liu*. <br>
-Accepted by IEEE AP-GARSS. <br>
-[[Paper]](./resources/preprint/APGRASS_paper_8.pdf)
+Accepted by **IEEE AP-GARSS (Oral)**. <br>
+[[Paper]](./resources/preprint/APGRASS_paper_10.pdf)
 
 # 🎖 Honor
 <!-- - *2022.04*, Jingfeng Scholarship(**竞锋奖学金**), Northwest University. -->
@@ -63,7 +63,6 @@ I served as a TA for the following courses:
 
 # 📖 Education
 - *2024.09 - Now*, Master, Artificial Intelligence, Fudan University, Shanghai.
-- *2024.03 - 2024.09*, Research Assistant, Fudan University, Shanghai.
 - *2018.09 - 2022.06*. Undergraduate, Electronic Information Science and Technology, Northwest University, Xi'an.
 
 <!-- # 💬 Invited Talks
