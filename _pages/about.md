@@ -21,13 +21,13 @@ I am a second-year M.S. student at [the Department of Communication Science and 
 
 Prior to this, I worked in [Tencent (腾讯)](https://www.tencent.com/zh-cn/) as a Software Engineer. I completed my undergraduate at [Northwest University](https://www.nwu.edu.cn/), where I was fortunate to be advised by Associate Professor [Yu-dan Ren (任玉丹)](https://faculty.nwu.edu.cn/YudanRen/zh_CN/index/81077/list/index.htm). 
 
-My current research focus on Large Language Models. Always happy to connect and collaborate on related research.
+My current research focus on LLMs and GeoAI. Always happy to connect and collaborate on related research.
 
 # 🔥 News
 - *2026.05*: &nbsp;🎉🎉 I joined AI-Lab@ChinaUnicom as a research interner. 
 - *2024.09*: &nbsp;🎉🎉 Start my academic journey at EMW-Lab@Fudan. 
 
-# 📝 Publication <a href='https://scholar.google.com/citations?user=VzvP5a8AAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
+# 📝 Publication <a href='https://scholar.google.com/citations?user=xBtrrsQAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
 
 ## Journal Paper
 - **MMoEDTM: Improving the Generalization of Multi-terrain Lunar DTM and Optimization of Rocky Surface Generation** <br>
