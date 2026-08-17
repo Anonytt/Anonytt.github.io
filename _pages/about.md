@@ -17,11 +17,11 @@ redirect_from:
 
 # 🤵🏻 About Me
 
-I am a second-year M.S. student at [the Department of Communication Science and Engineering](https://cse.fudan.edu.cn/) of [Fudan University](https://www.fudan.edu.cn/) advised by Associate Professor [Niu-tao Liu (柳钮滔)](http://www.it.fudan.edu.cn/En/Data/View/3966), and a member of [EMW Lab (电磁波信息科学教育部重点实验室)](https://emwlab.fudan.edu.cn/), which is led by Professor [Ya-qiu Jin (金亚秋)](http://www.it.fudan.edu.cn/Data/View/1044). I am also a research interner at [ChinaUnicom AI-Lab (中国联通人工智能实验室)](https://www.chinaunicom.com.cn/?t=1779350886740), where I'm working on Parametric Memory Enhancement of LLMs with Dr.[Chao Hu (胡超)](https://ai-chaohu.github.io/).
+I am a thrid-year M.S. student at [the Department of Communication Science and Engineering](https://cse.fudan.edu.cn/) of [Fudan University](https://www.fudan.edu.cn/) advised by Associate Professor [Niu-tao Liu (柳钮滔)](http://www.it.fudan.edu.cn/En/Data/View/3966), and a member of [EMW Lab (电磁波信息科学教育部重点实验室)](https://emwlab.fudan.edu.cn/), which is led by Professor [Ya-qiu Jin (金亚秋)](http://www.it.fudan.edu.cn/Data/View/1044). I am also a research interner at [ChinaUnicom AI-Lab (中国联通人工智能实验室)](https://www.chinaunicom.com.cn/?t=1779350886740), where I'm working on Reinforcement Learning of LLMs with Dr.[Chao Hu (胡超)](https://ai-chaohu.github.io/).
 
 Prior to this, I worked in [Tencent (腾讯)](https://www.tencent.com/zh-cn/) as a Software Engineer. I completed my undergraduate at [Northwest University](https://www.nwu.edu.cn/), where I was fortunate to be advised by Associate Professor [Yu-dan Ren (任玉丹)](https://faculty.nwu.edu.cn/YudanRen/zh_CN/index/81077/list/index.htm). 
 
-My current research focus on LLMs and GeoAI. Always happy to connect and collaborate on related research.
+My current research focus on Post Training especially RL policy. Always happy to connect and collaborate on related research.
 
 # 🔥 News
 - *2026.05*: &nbsp;🎉🎉 I joined AI-Lab@ChinaUnicom as a research interner. 
@@ -32,7 +32,7 @@ My current research focus on LLMs and GeoAI. Always happy to connect and collabo
 ## Journal Paper
 - **MMoEDTM: Improving the Generalization of Multi-terrain Lunar DTM and Optimization of Rocky Surface Generation** <br>
  **Yi Zheng**, Tong Xia, Niu-tao Liu*, Ya-qiu Jin. <br>
-Under Review in **IEEE Transactions on Geoscience and Remote Sensing**(SCI一区, JCR Q1, CCF-B, IF:9.4). <br>
+Minor Revision in **IEEE Transactions on Geoscience and Remote Sensing**(SCI一区Top, JCR Q1, IF:9.4). <br>
 [[Paper]](./resources/preprint/终版_TGRS-Yi Zheng_英文V6.pdf)
 
 - **LunarSAR2O: SAR-to-Optical Image Translation for Permanently Shadowed Region Exploration and its Application** <br>
