@@ -61,9 +61,9 @@ I am very lucky to work with the following talented students:
 I served as a TA for the following courses:
 - AIB310003.01 **Fundamentals of Deep Learning**, lead by Prof.[Xiao-guang Sun (孙晓光)](https://ai.fudan.edu.cn/sxg/list.htm)
 
-# 📖 Education
+<!-- # 📖 Education
 - *2024.09 - Now*, Master, Artificial Intelligence, Fudan University, Shanghai.
-- *2018.09 - 2022.06*. Undergraduate, Electronic Information Science and Technology, Northwest University, Xi'an.
+- *2018.09 - 2022.06*. Undergraduate, Electronic Information Science and Technology, Northwest University, Xi'an. -->
 
 <!-- # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
