@@ -17,9 +17,9 @@ redirect_from:
 
 # 🤵🏻 About Me
 
-I am a thrid-year M.S. student at [the Department of Communication Science and Engineering](https://cse.fudan.edu.cn/) of [Fudan University](https://www.fudan.edu.cn/) advised by Associate Professor [Niu-tao Liu (柳钮滔)](http://www.it.fudan.edu.cn/En/Data/View/3966), and a member of [EMW Lab (电磁波信息科学教育部重点实验室)](https://emwlab.fudan.edu.cn/), which is led by Professor [Ya-qiu Jin (金亚秋)](http://www.it.fudan.edu.cn/Data/View/1044). I am also a research interner at [AXIS Robotics](https://axisrobotics.ai/), where I'm working on foundation model for Embodied Intelligence with [Meng-fei Zhao (赵孟飞)](https://www.researchgate.net/scientific-contributions/Mengfei-Zhao-2361417383).
+I am a thrid-year M.S. student of [Fudan University](https://www.fudan.edu.cn/) advised by Associate Professor [Niu-tao Liu](http://www.it.fudan.edu.cn/En/Data/View/3966), and a member of [EMW Lab](https://emwlab.fudan.edu.cn/), which is led by Professor [Ya-qiu Jin](http://www.it.fudan.edu.cn/Data/View/1044). I am also a research interner at [AXIS Robotics](https://axisrobotics.ai/), where I'm working on world action model for Embodied Intelligence with [Meng-fei Zhao](https://www.researchgate.net/scientific-contributions/Mengfei-Zhao-2361417383) and [Yi-kai Tang](https://github.com/WinterMelooooo).
 
-Previously, I served as a research interner at [ChinaUnicom AI-Lab (中国联通人工智能实验室)](https://www.chinaunicom.com.cn/?t=1779350886740) under the supervision of Dr.[Chao Hu (胡超)](https://ai-chaohu.github.io/), and also gained engineering experience at [Tencent (腾讯)](https://www.tencent.com/zh-cn/). I completed my undergraduate at [Northwest University](https://www.nwu.edu.cn/), where I was fortunate to be advised by Associate Professor [Yu-dan Ren (任玉丹)](https://faculty.nwu.edu.cn/YudanRen/zh_CN/index/81077/list/index.htm). 
+Previously, I served as a research interner at [ChinaUnicom AI-Lab](https://www.chinaunicom.com.cn/?t=1779350886740) under the supervision of Dr.[Chao Hu)](https://ai-chaohu.github.io/), and also gained engineering experience at [Tencent](https://www.tencent.com/zh-cn/). I completed my undergraduate at [Northwest University](https://www.nwu.edu.cn/), where I was fortunate to be advised by Associate Professor [Yu-dan Ren](https://faculty.nwu.edu.cn/YudanRen/zh_CN/index/81077/list/index.htm). 
 
 My current research focus on Embodied AI. Always happy to connect and collaborate on related research.
 
@@ -30,10 +30,10 @@ My current research focus on Embodied AI. Always happy to connect and collaborat
 # 📝 Publication <a href='https://scholar.google.com/citations?user=xBtrrsQAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
 
 ## Journal Paper
-- **MMoEDTM: Improving the Generalization of Multi-terrain Lunar DTM and Optimization of Rocky Surface Generation** <br>
+- **MMOEDTM: An Approach for Generalized Lunar Terrain Modeling, Optimized for Rocky Surfaces** <br>
  **Yi Zheng**, Tong Xia, Niu-tao Liu*, Ya-qiu Jin. <br>
-Minor Revision in **IEEE Transactions on Geoscience and Remote Sensing**(SCI一区Top, JCR Q1, IF:9.4). <br>
-[[Paper]](./resources/preprint/终版_TGRS-Yi Zheng_英文V6.pdf)
+Accepted by **IEEE TGRS**(SCI一区Top, JCR Q1, IF:9.4). <br>
+[[Paper]](./resources/preprint/黑_TGRS-Yi Zheng.pdf)
 
 - **LunarSAR2O: SAR-to-Optical Image Translation for Permanently Shadowed Region Exploration and its Application** <br>
 Tong Xia, Niu-tao Liu*, **Yi Zheng**, Ya-qiu Jin, Feng Xu. <br>
@@ -59,7 +59,7 @@ I am very lucky to work with the following talented students:
 - [Zhendong Zhang(张振东)], B.Sc@CQUPT, now M.S student@Fudan.
 
 I served as a TA for the following courses:
-- AIB310003.01 **Fundamentals of Deep Learning**, lead by Prof.[Xiao-guang Sun (孙晓光)](https://ai.fudan.edu.cn/sxg/list.htm)
+- AIB310003.01 **Fundamentals of Deep Learning**, lead by Prof.[Xiao-guang Sun](https://ai.fudan.edu.cn/sxg/list.htm)
 
 <!-- # 📖 Education
 - *2024.09 - Now*, Master, Artificial Intelligence, Fudan University, Shanghai.
