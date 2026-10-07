@@ -17,9 +17,9 @@ redirect_from:
 
 # 🤵🏻 About Me
 
-I am a thrid-year M.S. student of [Fudan University](https://www.fudan.edu.cn/) advised by Associate Professor [Niu-tao Liu](http://www.it.fudan.edu.cn/En/Data/View/3966), and a member of [EMW Lab](https://emwlab.fudan.edu.cn/), which is led by Professor [Ya-qiu Jin](http://www.it.fudan.edu.cn/Data/View/1044). I am also a research interner at [AXIS Robotics](https://axisrobotics.ai/), where I'm working on world action model for Embodied Intelligence with [Meng-fei Zhao](https://www.researchgate.net/scientific-contributions/Mengfei-Zhao-2361417383) and [Yi-kai Tang](https://github.com/WinterMelooooo).
+I am a thrid-year M.S. student of [Fudan University](https://www.fudan.edu.cn/) advised by Associate Professor [Niutao Liu](http://www.it.fudan.edu.cn/En/Data/View/3966), and a member of [EMW Lab](https://emwlab.fudan.edu.cn/), which is led by Professor [Ya-qiu Jin](http://www.it.fudan.edu.cn/Data/View/1044). I am also a research interner at [AXIS Robotics](https://axisrobotics.ai/), where I'm working on world action model for Embodied Intelligence with [Mengfei Zhao](https://www.researchgate.net/scientific-contributions/Mengfei-Zhao-2361417383) and [Yikai Tang](https://github.com/WinterMelooooo).
 
-Previously, I served as a research interner at [ChinaUnicom AI-Lab](https://www.chinaunicom.com.cn/?t=1779350886740) under the supervision of Dr.[Chao Hu](https://ai-chaohu.github.io/), and gained engineering experience at [Tencent](https://www.tencent.com/zh-cn/). I completed my undergraduate at [Northwest University](https://www.nwu.edu.cn/), where I was fortunate to be advised by Associate Professor [Yu-dan Ren](https://faculty.nwu.edu.cn/YudanRen/zh_CN/index/81077/list/index.htm). 
+Previously, I served as a research interner at [ChinaUnicom AI-Lab](https://www.chinaunicom.com.cn/?t=1779350886740) under the supervision of Dr.[Chao Hu](https://ai-chaohu.github.io/), and gained engineering experience at [Tencent](https://www.tencent.com/zh-cn/). I completed my undergraduate at [Northwest University](https://www.nwu.edu.cn/), where I was fortunate to be advised by Associate Professor [Yudan Ren](https://faculty.nwu.edu.cn/YudanRen/zh_CN/index/81077/list/index.htm). 
 
 My current research focus on Embodied AI. Always happy to connect and collaborate on related research.
 
@@ -31,18 +31,18 @@ My current research focus on Embodied AI. Always happy to connect and collaborat
 
 ## Journal Paper
 - **MMOEDTM: An Approach for Generalized Lunar Terrain Modeling, Optimized for Rocky Surfaces** <br>
- **Yi Zheng**, Tong Xia, Niu-tao Liu*, Ya-qiu Jin. <br>
+ **Yi Zheng**, Tong Xia, Niutao Liu*, Ya-qiu Jin. <br>
 Accepted by **IEEE TGRS**(SCI一区Top, JCR Q1, CCF-B, IF:9.4). <br>
 [[Paper]](./resources/preprint/黑_TGRS-Yi Zheng.pdf)
 
 - **LunarSAR2O: SAR-to-Optical Image Translation for Permanently Shadowed Region Exploration and its Application** <br>
-Tong Xia, Niu-tao Liu*, **Yi Zheng**, Ya-qiu Jin, Feng Xu. <br>
+Tong Xia, Niutao Liu*, **Yi Zheng**, Ya-qiu Jin. <br>
 Accepted by **Icarus**(SCI二区, JCR Q2, IF:3.12). <br>
 [[Paper]](https://www.sciencedirect.com/science/article/pii/S0019103526002447)
 
 ## Conference Paper
 - **LunarOS-Mini: A Two-Stage Decoupled Visual Language Model for Lunar SAR Imagery** <br>
- **Yi Zheng**, De-zhang Li, Niu-tao Liu*. <br>
+ **Yi Zheng**, Dezhang Li, Niutao Liu*. <br>
 Accepted by **IEEE AP-GARSS (Oral)**. <br>
 [[Paper]](./resources/preprint/APGRASS_paper_10.pdf)
 
@@ -59,7 +59,7 @@ I am very lucky to work with the following talented students:
 - [Zhendong Zhang(张振东)], B.Sc@CQUPT, now M.S student@Fudan.
 
 I served as a TA for the following courses:
-- AIB310003.01 **Fundamentals of Deep Learning**, lead by Prof.[Xiao-guang Sun](https://ai.fudan.edu.cn/sxg/list.htm)
+- AIB310003.01 **Fundamentals of Deep Learning**, lead by Prof.[Xiaoguang Sun](https://ai.fudan.edu.cn/sxg/list.htm)
 
 <!-- # 📖 Education
 - *2024.09 - Now*, Master, Artificial Intelligence, Fudan University, Shanghai.
