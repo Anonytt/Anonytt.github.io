@@ -17,7 +17,7 @@ redirect_from:
 
 # 🤵🏻 About Me
 
-I am a thrid-year M.S. student of [Fudan University](https://www.fudan.edu.cn/) advised by Associate Professor [Niutao Liu](http://www.it.fudan.edu.cn/En/Data/View/3966), and a member of [EMW Lab](https://emwlab.fudan.edu.cn/), which is led by Professor [Ya-Qiu Jin](http://www.it.fudan.edu.cn/Data/View/1044). I am also a research interner at [AXIS Robotics](https://axisrobotics.ai/), where I'm working on world action model for Embodied Intelligence with [Mengfei Zhao](https://www.researchgate.net/scientific-contributions/Mengfei-Zhao-2361417383) and [Yikai Tang](https://github.com/WinterMelooooo).
+I am a third-year M.S. student of [Fudan University](https://www.fudan.edu.cn/) advised by Associate Professor [Niutao Liu](http://www.it.fudan.edu.cn/En/Data/View/3966), and a member of [EMW Lab](https://emwlab.fudan.edu.cn/), which is led by Professor [Ya-Qiu Jin](http://www.it.fudan.edu.cn/Data/View/1044). I am also a research interner at [AXIS Robotics](https://axisrobotics.ai/), where I'm working on world action model for Embodied Intelligence with [Mengfei Zhao](https://www.researchgate.net/scientific-contributions/Mengfei-Zhao-2361417383) and [Yikai Tang](https://github.com/WinterMelooooo).
 
 Previously, I served as a research interner at [ChinaUnicom AI-Lab](https://www.chinaunicom.com.cn/?t=1779350886740) under the supervision of Professor [Chao Hu](https://ai-chaohu.github.io/), and gained engineering experience at [Tencent](https://www.tencent.com/zh-cn/). I completed my undergraduate at [Northwest University](https://www.nwu.edu.cn/), where I was fortunate to be advised by Associate Professor [Yudan Ren](https://faculty.nwu.edu.cn/YudanRen/zh_CN/index/81077/list/index.htm). 
 
