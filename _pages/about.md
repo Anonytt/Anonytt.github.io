@@ -49,6 +49,7 @@ Accepted by **IEEE AP-GARSS (Oral)**. <br>
 
 # 🎖 Honor
 <!-- - *2022.04*, Jingfeng Scholarship(**竞锋奖学金**), Northwest University. -->
+- *2026.10*, Xiaomi Scholarship.
 - *2021.05*, ACM-ICPC Asia Regional Contest, **Silver Medal**, Yinchuan.
 - *2021.05*, China Collegiate Programming Contest(CCPC Invitation), **Silver Medal**, Xiangtan.
 
